@@ -2,3 +2,4 @@
 
 - Yurii Voronyi
 - Paul Taach
+- Aliia Sagutdinova
